@@ -9,3 +9,13 @@ Feature (FR):
 - View appointment from file
 - Save appointment to file
 
+## Install
+
+git clone https://github.com/dedsxc/agenda
+
+```sh
+mkdir build 
+cd build
+cmake ..
+make
+```
